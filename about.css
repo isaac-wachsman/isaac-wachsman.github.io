@@ -5,5 +5,5 @@
 
 body
 {
-    background-image: "assets/mathboard.jpg";
+    background-image: url("assets/mathboard.jpg");
 }
